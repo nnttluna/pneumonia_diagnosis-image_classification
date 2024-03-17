@@ -4,7 +4,7 @@
 
 We will develop a computer vision model to detect pneumonia in histopathological images using convolutional neural network to assist in diagnosis. Two classes will be used in this project: **Positive or Negative.**
 
-![image](https://github.com/nnttluna/pneumonia_diagnosis-image_classification/assets/103468427/570efd3f-ecb1-4065-9b44-828c373d9ee4) ![image](https://github.com/nnttluna/pneumonia_diagnosis-image_classification/assets/103468427/9cf30c6a-beb9-4290-a3ec-32ce6675d011)
+<img scr="https://github.com/nnttluna/pneumonia_diagnosis-image_classification/assets/103468427/570efd3f-ecb1-4065-9b44-828c373d9ee4" width="400" height="400"> ![image](https://github.com/nnttluna/pneumonia_diagnosis-image_classification/assets/103468427/9cf30c6a-beb9-4290-a3ec-32ce6675d011)
 
 
 
