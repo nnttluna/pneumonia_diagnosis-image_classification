@@ -1,6 +1,6 @@
 # Pneumonia-Detection-from-X-Rays
 
-# Creating an AI app for Pneumonia Detection 
+# Creating ML algorithm for Pneumonia Detection 
 
 We will develop a computer vision model to detect pneumonia in histopathological images, assisting diagnosis. Two classes will be used in this project: **Benign and Malignant.**
 
