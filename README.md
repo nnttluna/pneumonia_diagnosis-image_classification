@@ -2,9 +2,7 @@
 
 # Creating ML algorithm for Pneumonia Detection 
 
-We will develop a computer vision model to detect pneumonia in histopathological images using convolutional neural network to assist in diagnosis. Two classes will be used in this project: **Positive or Negative.**
-
-<img scr="https://github.com/nnttluna/pneumonia_diagnosis-image_classification/assets/103468427/570efd3f-ecb1-4065-9b44-828c373d9ee4" width="400" height="400"> ![image](https://github.com/nnttluna/pneumonia_diagnosis-image_classification/assets/103468427/9cf30c6a-beb9-4290-a3ec-32ce6675d011)
+The project is aim to develop a computer vision model to detect pneumonia in histopathological images using convolutional neural network to assist in diagnosis. Two classes will be used in this project: **Positive or Negative.**
 
 
 
@@ -15,7 +13,7 @@ this model's nature of processing 2D images. This model includes combining convo
 layers, reLU layers as well as a fully connected layer. As each layer increases with different
 learned features from the images, the CNN model should accurately provide the classification of our
 dataset without many preprocessing functions. This model compared to normal neural networks
-is advantageous due to this model being able to work in a 2D plane and this will in result help
+is advantageous due to this model being able to work in a 2D plane and this will as a result help
 retain the spatial properties of the input image. As we increase the number of epochs within this
 model as well as convolution layers, the model will be able to train and learn the input images
 yielding improved accuracy (>90%) in predicting and testing compared to other deep learning
