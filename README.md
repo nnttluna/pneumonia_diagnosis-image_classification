@@ -18,6 +18,8 @@ yielding improved accuracy (>90%) in predicting and testing compared to other de
 models for images.
 
 # Resutls
+![image](https://github.com/nnttluna/pneumonia_diagnosis-image_classification/assets/103468427/1d82089d-aae8-467d-908f-06388944f32f)
+
 
 The image classification using a convolutional keras neural
 network proved to perform extremely well, with an accuracy of 97% and about equal numbers of
