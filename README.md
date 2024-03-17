@@ -2,7 +2,7 @@
 
 # Creating ML algorithm for Pneumonia Detection 
 
-We will develop a computer vision model to detect pneumonia in histopathological images using convolutional keras neural network to assist in diagnosis. Two classes will be used in this project: **Positive or Negative.**
+We will develop a computer vision model to detect pneumonia in histopathological images using convolutional neural network to assist in diagnosis. Two classes will be used in this project: **Positive or Negative.**
 
 # Data Analysis Hypothesis: 
 
