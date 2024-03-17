@@ -17,14 +17,15 @@ model as well as convolution layers, the model will be able to train and learn t
 yielding improved accuracy (>90%) in predicting and testing compared to other deep learning
 models for images.
 
-# Instructions
+# Resutls
 
-The project is broken down into multiple steps:
-
-    Load and preprocess the image dataset
-    Train the image classifier on your dataset
-    Use the trained classifier to predict image content
-
-Everything you need to recreate this project is on the jupyter notebook. Everything was coded in Google Colab, because of its GPU. The dataset was uploaded to Google Drive, so you can download it directly (the code to download it is in the notebook). For more details, the notebook includes the instructions to follow.
-
-This project is updated to be compatible with PyTorch 0.4.0
+The image classification using a convolutional keras neural
+network proved to perform extremely well, with an accuracy of 97% and about equal numbers of
+false positives and false negatives. The first challenge pertained to the initial size of the images.
+Working through errors in our code it was soon noticed that the imported images were all of
+different sizes. By resizing all images to have the same amount of pixels we were able to
+resolve this issue, as well as make it easier for the network to learn. Once we had a working
+model it was important to have a visualization of the point where the model would overfit.
+Graphically representing the loss of training and validation data enabled a better estimate of the
+amount of epochs needed. Through trial and error an epoch of 15 proved to provide high
+accuracy without overfitting the data.
