@@ -29,7 +29,7 @@ model as well as convolution layers, the model will be able to train and learn t
 yielding improved accuracy (>90%) in predicting and testing compared to other deep learning
 models for images.
 
-# Resutls
+# Results
 ![image](https://github.com/nnttluna/pneumonia_diagnosis-image_classification/assets/103468427/1d82089d-aae8-467d-908f-06388944f32f)
 
 
