@@ -1,8 +1,6 @@
-# Pneumonia-Detection-from-X-Rays
+# ML Pneumonia Diagnosis from X-Rays Images 
 
-# Creating ML algorithm for Pneumonia Detection 
-
-The project is aim to develop a computer vision model to detect pneumonia in histopathological images using convolutional neural network to assist in diagnosis. Two classes will be used in this project: **Positive or Negative.**
+The project aims to develop a computer vision model to detect pneumonia in histopathological images using convolutional neural network to assist in diagnosis. Two classes will be used in this project: **Positive or Negative.**
 
 # Chest X-Ray Images Data 
 
