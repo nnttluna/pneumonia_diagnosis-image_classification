@@ -6,7 +6,7 @@ The project is aim to develop a computer vision model to detect pneumonia in his
 
 
 
-# Data Analysis Hypothesis: 
+# Data Analysis Hypothesis
 
 From the convolutional keras neural network, we expect favourable results due to
 this model's nature of processing 2D images. This model includes combining convolutional
