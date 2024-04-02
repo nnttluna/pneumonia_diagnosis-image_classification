@@ -32,7 +32,7 @@ models for images.
 
 
 The image classification using a **convolutional keras neural
-network** proved to perform extremely well, with an accuracy of 97% and about equal numbers of
+network** proved to perform extremely well, with an **accuracy of 97%** and about equal numbers of
 false positives and false negatives. The first challenge pertained to the initial size of the images.
 Working through errors in our code it was soon noticed that the imported images were all of
 different sizes. By resizing all images to have the same amount of pixels we were able to
